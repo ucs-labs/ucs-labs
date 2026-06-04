@@ -9,7 +9,7 @@
 ---
 
 ### Tech I work with
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/75f170d4-83f7-44b4-bdf1-e840786236b6" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,figma,aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
 
 
 
