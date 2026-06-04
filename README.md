@@ -9,7 +9,7 @@
 ---
 
 ### Tech I work with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,figma,aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,figma,aws,gcp,azure,react,vue,flutter,androidstudio,arduino,)](https://skillicons.dev)
 
 
 
