@@ -9,6 +9,13 @@
 ---
 
 ### Tech I work with
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/75f170d4-83f7-44b4-bdf1-e840786236b6" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/f046c271-02a0-41d4-94fc-d0a72feecccc" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/246a701d-6828-41e7-a5a5-c883774a5299" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/6abeedf8-9153-4d01-a144-187e007a20fe" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/4da1d6d8-706f-4c03-9c30-763a68574375" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/5c53b47b-073a-49b5-9c55-e3a4885e9417" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/f94e56db-5bff-4f5d-b307-1b351345f57a" />
 
 
 
