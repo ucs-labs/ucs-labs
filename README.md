@@ -1,29 +1,60 @@
 # Hi, I'm Chandra, Umesh Chandra Suravarapu
 
-I build across the stack — from systems to interfaces to intelligent tools.
-Currently focused on shipping things that matter.
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+ucs-labs+%F0%9F%91%8B;I+build+across+the+stack;Shipping+ideas+that+matter;Open+source+%7C+Multi-discipline)](https://git.io/typing-svg)
+
+
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ucs-labs&show_icons=true&hide_border=true&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucs-labs&layout=compact&hide_border=true&theme=default)
-![Streak](https://streak-stats.demolab.com?user=ucs-labs&hide_border=true&theme=default)
+### Tech I work with
 
----
 
-### What I work on
-- Building tools that make developers faster
-- Exploring intersections of systems, data, and interfaces
-- Open source contributions when I find something worth improving
 
-### Currently
-> Working on something new — check back soon.
 
----
+  
 
 
 
 
 ---
 
-*Last updated automatically via GitHub Actions*
+### GitHub stats
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+---
+
+### Activity
+
+
+
+
+---
+
+
+
