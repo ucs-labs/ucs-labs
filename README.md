@@ -1,4 +1,4 @@
-# Hi, I'm ucs-labs
+# Hi, I'm Chandra, Umesh Chandra Suravarapu
 
 I build across the stack — from systems to interfaces to intelligent tools.
 Currently focused on shipping things that matter.
