@@ -1,19 +1,29 @@
-## Hi there 👋
+# Hi, I'm ucs-labs
 
-<!--
-**ucs-labs/ucs-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build across the stack — from systems to interfaces to intelligent tools.
+Currently focused on shipping things that matter.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Stats](https://github-readme-stats.vercel.app/api?username=ucs-labs&show_icons=true&theme=default)
-![Streak](https://streak-stats.demolab.com?user=ucs-labs&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucs-labs&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=ucs-labs&show_icons=true&hide_border=true&theme=default&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucs-labs&layout=compact&hide_border=true&theme=default)
+![Streak](https://streak-stats.demolab.com?user=ucs-labs&hide_border=true&theme=default)
+
+---
+
+### What I work on
+- Building tools that make developers faster
+- Exploring intersections of systems, data, and interfaces
+- Open source contributions when I find something worth improving
+
+### Currently
+> Working on something new — check back soon.
+
+---
+
+
+
+
+---
+
+*Last updated automatically via GitHub Actions*
