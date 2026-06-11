@@ -1,8 +1,5 @@
 # Hi, I'm Chandra, Umesh Chandra Suravarapu
 
----
-
-### GitHub stats
 
 I build across the stack — from systems to interfaces to intelligent tools.
 Currently focused on shipping things that matter.
@@ -15,34 +12,22 @@ Currently focused on shipping things that matter.
 
 ---
 
+### What I work on
+- Building tools that make developers faster
+- Exploring intersections of systems, data, and interfaces
+- Open source contributions when I find something worth improving
 
-  
-  
+### Currently
+> Working on something new — check back soon.
 
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
+---
 
 
 
 
 ---
 
-### Activity
-
-
+*Last updated automatically via GitHub Actions*
 
 
 ---
